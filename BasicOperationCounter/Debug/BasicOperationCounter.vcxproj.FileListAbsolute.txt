@@ -1,0 +1,2 @@
+C:\Users\semih\source\repos\BasicOperationCounter\Debug\BasicOperationCounter.exe
+C:\Users\semih\source\repos\BasicOperationCounter\Debug\BasicOperationCounter.pdb
